@@ -19,7 +19,7 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
     * Precision: 98
     * Recall scores: 87
  
-* * Machine Learning Model 2: Decision Tree
+*  Machine Learning Model 2: Decision Tree
     * Description of Model 2
     * Accuracy: 99
     * Precision: 87
@@ -30,14 +30,14 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
     * Accuracy: 99
     * Precision: 88
     * Recall scores: 88
- 
-* * Machine Learning Model 4: SVC
+
+* Machine Learning Model 4: SVC
     * Description of Model 4
     * Accuracy: 100
     * Precision: 87
     * Recall scores: 100
  
-* * Machine Learning Model 5: KNN
+*  Machine Learning Model 5: KNN
     * Description of Model 5
     * Accuracy: 100
     * Precision: 87
@@ -54,8 +54,9 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
     * Accuracy: 100
     * Precision: 87
     * Recall scores: 99
+      
  
-* * Machine Learning Model 8: XGBoost
+*  Machine Learning Model 8: XGBoost
     * Description of Model 8
     * Accuracy: 100
     * Precision: 87
