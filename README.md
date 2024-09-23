@@ -69,7 +69,7 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 
-* Which one seems to perform best? How do you know it performs best?
-* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+* While models like XGBoost, Logistic Regression, KNN, and AdaBoost all preferred very well it is the SVC Model with 100 accuracy and 100 recall that tops this list. The other models mentioned come close but none had both 100 percent accuracy and 100 percent recall. For this reason I would recommend the SVC model.
 
-If you do not recommend any of the models, please justify your reasoning.
+
+
